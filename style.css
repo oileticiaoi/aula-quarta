@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+}
+h3{
+    color: red;
+}
+th{
+    color: cyan;
+    background-color: blueviolet;
+}
+table{
+    background-color: brown;
+    position: relative;
+    left: 460px;
+    bottom: 200px;
+    width: 600px;
+    height: 400px;
+    font-size: xx-large;
+}
+td{
+    color: white;
+    background-color: darkgreen;
+}
+body{
+    background-color: black;
+    color: white;
+}
